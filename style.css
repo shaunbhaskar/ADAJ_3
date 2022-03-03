@@ -1,0 +1,83 @@
+body{
+background-image:url("Background.gif");
+background-size: cover;
+color: blue;
+}
+#show_sketch{
+float: right;
+width: 130px;
+    font-size: 25px;
+    color: blue;
+    font-weight: bold;
+}
+.div_speed{
+float:left;
+}
+.disc_speed_img{
+width: 200px;
+border-radius:100px;
+border-color: black;
+border-width:15px;
+}
+#speed{
+font-size:23px;
+margin:15px;
+}
+
+.div_volume{
+    float:right;
+    }
+    .disc_volume_img{
+    width: 50px;
+    border-radius:100px;
+    border-color: black;
+    border-width:15px;
+    }
+    #volume{
+    font-size:23px;
+    margin:15px;
+    }
+
+.play_button{
+width: 130px;
+font-size: 25px;
+color: blue;
+font-weight: bold;
+}
+
+.pause_button{
+    width: 130px;
+    font-size: 25px;
+    color: blue;
+    font-weight: bold;
+    }
+
+    canvas{
+    border: 5px solid white;
+    border-radius:20px;
+    }
+    #head{
+    font-weight: bold;
+    font-size: 50px;
+  color: aqua;
+    }
+    #volume{
+    font-weight: bold;
+    color: blue;
+    }
+    #speed{
+        font-weight: bold;
+        color: blue;
+        }
+
+    #Info{
+        font-weight: bold;
+        color: blue;
+        font-size:20px;
+    }
+    #title{
+        font-weight: bold;
+        color: blue;
+        font-size:30px;
+    }
+    
